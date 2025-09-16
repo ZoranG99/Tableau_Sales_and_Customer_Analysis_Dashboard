@@ -1,0 +1,3 @@
+# Ignore schema and table metadata files
+datasets/eu/Customers.csv.schema.json
+datasets/eu/Customers.csv.table.json
