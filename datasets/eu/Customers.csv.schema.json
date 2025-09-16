@@ -1,0 +1,17 @@
+{
+  "fields": [
+    {
+      "name": "Customer ID",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Customer Name",
+      "type": "string",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
