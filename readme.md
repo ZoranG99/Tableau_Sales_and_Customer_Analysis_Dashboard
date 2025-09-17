@@ -33,7 +33,7 @@ The analysis is based on multiple relational datasets connected through a **fact
 ![Data Model](images/DataModel.png)
 
 ## Dashboard File
-- Local Tableau Project: [Project.twb](Project.twb)  
+- Local Tableau Project: [Project.twbx](Project.twbx)
 - Published Tableau Public Link: [Click Here!](https://public.tableau.com/app/profile/zoran.gusic/viz/Project_17579342118350/SalesDashboard)  
 
 ## Skills Demonstrated
